@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**fuckshitcompany/fuckshitcompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+让广大程序员避坑，快来吐槽你心中的shit company 吧， 不用担心被HR删除
 
-Here are some ideas to get you started:
+## Start
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 公司名 | 曾用名 | 槽点                                                         |      |      |      |      |      |      |      |
+| ------ | ------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 顶呱呱 |        | 与上一家公司差不多情况，比上家严重多了，技术可别来，老板天天在公司转悠，看工时，工时低了就会说是领导的问题，员工不加班，工作不饱和，经常裁员，并且不给补偿，福利没上一家好。特别喜欢扣钱，迟到一次扣100，各种扣钱的招数，以此类推（工资里有一部分是绩效，但每个月都会扣绩效，比谈的工资再少几百块） |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+|        |        |                                                              |      |      |      |      |      |      |      |
+
